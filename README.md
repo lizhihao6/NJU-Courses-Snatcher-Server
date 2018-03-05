@@ -1,4 +1,4 @@
-"# NJU-Courses-Snatcher-Server" 
+# NJU-Courses-Snatcher-Server
 ## 预处理
 
 1.所有需要设置的变量都在文件开头，使用qq邮箱smtp服务发送验证码及通知，所以需要开通qq邮箱smtp
